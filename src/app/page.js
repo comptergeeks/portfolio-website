@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.farhanKhanParent}>
       <div className={styles.farhanKhan}>Farhan Khan</div>
         <Image className={styles.image1Icon} alt="" src={itachi}/>
-      <div className={styles.comingSoon}>Porfolio Coming Soon</div>
+      <div className={styles.comingSoon}>Porfolio Coming Soon...</div>
     </div>
   );
 }
