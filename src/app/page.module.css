@@ -4,6 +4,7 @@
   font-family:var(--font-anonymous-pro)
 }
 .comingSoon {
+  margin-top: 50px;
   align-self: center;
 
 }
@@ -12,6 +13,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+
 }
 .farhanKhanParent {
   background-color: #000000;
@@ -21,4 +23,8 @@
   text-align: left;
   font-size: var(--font-size-61xl);
   color: var(--color-snow);
+}
+
+.farhanKhan{
+  margin-bottom: 25px;
 }
